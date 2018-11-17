@@ -8,3 +8,8 @@
          
 #### to execute          
          ./a.out
+         
+         
+#### how cpp runs
+        cpp to .obj file using compiler
+        .obj to .exe file
