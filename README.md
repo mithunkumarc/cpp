@@ -13,3 +13,7 @@
 #### how cpp runs
         cpp to .obj file using compiler
         .obj to .exe file
+
+
+#### compiler support link
+                https://en.cppreference.com/w/cpp/compiler_support
