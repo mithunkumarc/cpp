@@ -1,0 +1,12 @@
+#### new way to initialie null to pointer    
+    int* n = nullptr;   //c++ 11
+    std::cout << n << std::endl;
+    
+    
+    int* ptr = NULL;
+    std::cout << ptr << std::endl;
+    
+    
+    output : 
+    0
+    0
