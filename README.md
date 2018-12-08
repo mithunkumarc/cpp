@@ -17,3 +17,17 @@
 
 #### compiler support link
                 https://en.cppreference.com/w/cpp/compiler_support
+
+
+#### steps : how c/c++ programs executed 
+
+                 source code : program.c
+        1. preprocessor process program.c to prgram.I
+                Expanded source code : program.I
+        2. compiler     
+                object code (program.obj)
+        4.Linker
+                executable code (program.exe)
+                
+                
+                
